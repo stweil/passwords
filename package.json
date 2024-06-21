@@ -75,7 +75,7 @@
         "uglify-js": "3.17.4",
         "url-loader": "^4.1.1",
         "vue": "^2.7.14",
-        "vue-loader": "^15.10.1",
+        "vue-loader": "^17.4.2",
         "vue-material-design-icons": "^5.1.2",
         "vue-qrcode-component": "^2.1.1",
         "vue-router": "^3.6.5",
